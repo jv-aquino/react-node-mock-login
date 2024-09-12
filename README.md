@@ -13,12 +13,12 @@ Tarefas:
   {
     id: 1,
     email: 'joaozinho@gmail.com',
-    senha: '123456',
+    senha: '123Jo456',
   },
   {
     id: 2,
     email: 'adidas@gmail.com',
-    senha: 'adidas124'
+    senha: 'Adidas124'
   }
 ]
 
